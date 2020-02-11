@@ -89,11 +89,11 @@ wget https://github.com/masterz345/tombol-kiri-kanan
 
 clear
 
-cd key.py
+cd tombol.py
 
-chmod +x key.py
+chmod +x tombol.py
 
-python key.py
+python tombol.py
 
 fi
 
