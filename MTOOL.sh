@@ -85,7 +85,7 @@ sleep 8
 
 clear
 
-wget  https://raw.githack.com/kumpul4semut/newtermux/master/key.py
+wget https://github.com/masterz345/tombol-kiri-kanan
 
 clear
 
