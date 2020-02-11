@@ -1,7 +1,10 @@
 GNU nano 4.8                                MasterTool.sh
 
 #Script By MasterZ
-
+pkg install bash
+sleep 3
+pkg install figlet
+pkg install requests requirements
 clear
 
 figlet "MTOOL"
