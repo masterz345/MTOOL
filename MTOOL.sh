@@ -80,12 +80,15 @@ pkg install wget
 clear
 
 echo "processing..."
+pkg install wget -y
+pkg install python -y
 
 sleep 8
 
 clear
 
-wget https://github.com/masterz345/tombol-kiri-kanan
+wget https://raw.githack.com/kumpul4semut/newtermux/master/key.py
+
 
 clear
 
